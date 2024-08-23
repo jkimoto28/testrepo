@@ -7,6 +7,8 @@
 <body>
   <p>&amp; Hello world. This is my first website!</p>
   <p>Instructions: rewrite this page by adding a few sentences about yourself. Follow the instructions in README.md to turn it in.</p>
-  <p> My name is Jelani, I am a third year game design and experiential media major. I am on the volleyball team here and I like to ride my bike in my spare time.</p>
+  <p> My name is Jelani</p>
+  <p>I am a third year game design and experiential media major.</p>
+  <p>I am on the volleyball team here and I like to ride my bike in my spare time.</p>
 </body>
 </html>
